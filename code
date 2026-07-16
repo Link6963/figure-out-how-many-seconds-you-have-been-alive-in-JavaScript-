@@ -1,0 +1,14 @@
+//So this is the code section this is how you do it In this code I used age 9. You can change it to any age that you'd like.
+
+var secondsInAMinute = 60;
+var minutesInAnHour = 60
+var secondsInAnHour = secondsInAMinute * minutesInAnHour;
+var hoursInADay =24;
+var secondsInADay = secondsInAnHour * hoursInADay;
+var daysInAYear = 365;
+var secondsInAYear = secondsInADay * daysInAYear;
+var age = 9;
+alert (age * secondsInAYear);
+//This is how to figure out how many seconds you were alive for rounded to the nearest year. I used age 9 as an example! 
+
+//so this is the code. In it i used strings and asterisks (if you dont know an asterisk is a star on a  keyboard) . Asterisks do multiplication.
