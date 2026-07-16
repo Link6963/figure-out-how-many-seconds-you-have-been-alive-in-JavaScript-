@@ -11,4 +11,4 @@ var age = 9;
 alert (age * secondsInAYear);
 //This is how to figure out how many seconds you were alive for rounded to the nearest year. I used age 9 as an example! 
 
-//so this is the code. In it i used strings and asterisks (if you dont know an asterisk is a star on a  keyboard) . Asterisks do multiplication.
+//so this is the code. In it i use numbers and asterisks (if you dont know an asterisk is a star on a  keyboard) . Asterisks do multiplication.
